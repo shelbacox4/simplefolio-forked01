@@ -21,7 +21,6 @@
   "bugs": {
     "url": "https://github.com/cobiwave/simplefolio/issues"
   },
-  "homepage": "https://github.com/shelbacox4/simplefolio-forked01",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "gh-pages": "^6.2.0",
